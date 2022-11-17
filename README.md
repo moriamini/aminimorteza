@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Morteza Amini.
+- Since 2013, I have been working in the fields of website and mobile application development.
+- For the past 3 years, I have been actively working in the field of artificial intelligence and data science.
+- 👀 I’m interested in deep learning and machine learning on Python and Rust.
+- 🌱 I'm currently learning how to design machine learning systems
+- 💞️ I’m looking to collaborate on improve my skill on deep learning and soft skills such as teamwork, ... .
+- 📫 Email: m.amini.dev@gmail.com
